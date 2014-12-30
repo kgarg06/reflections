@@ -1,1 +1,3 @@
-First question
+When would you want to use a remote repository rather than keeping all your work local?
+
+Can push from different computers. Can colaborate with others. Don't have to worry about losing local data. 
